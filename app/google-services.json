@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513265285359",
+    "project_id": "usermanagmentmodule-ad19c",
+    "storage_bucket": "usermanagmentmodule-ad19c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513265285359:android:b44091a25dd1ffc488c31a",
+        "android_client_info": {
+          "package_name": "com.example.usermanagmentmodule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcAwYxfdiF6ODevqt3mVz3PKDetgPGq6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
